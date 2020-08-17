@@ -4,7 +4,7 @@ Small project for problem set 0 in Havard University's Introduction To Computer 
 # Usage
 To play the game:
  - From github, download the game file "project (CS50)" to your computer and open it in https://scratch.mit.edu/ site.
-  - or -
+  - or 
   - Go to this url and enjoy https://scratch.mit.edu/projects/401843027/
   
 # What I Learned From this Project:
