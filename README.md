@@ -1,5 +1,5 @@
 # Scratch-Game
-Small project for problem set 0 in Havard University's Introduction To Computer Science Course CS50.
+Small project for problem set 0 in Havard University's Introduction To Computer Science Course CS50x.
 
 # Usage
 To play the game:
