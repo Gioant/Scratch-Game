@@ -5,7 +5,7 @@ Small project for problem set 0 in Havard University's Introduction To Computer 
 To play the game:
  - From github, download the game file "project (CS50)" to your computer and open it in https://scratch.mit.edu/ site.
   - or 
-  - Go to this url and enjoy https://scratch.mit.edu/projects/401843027/
+  - Go to this url https://scratch.mit.edu/projects/401843027/
   
 # What I Learned From this Project:
   - How computers represent information using binary representation. Be it Letters of an alphabet, Emoticons, Color, Etc... (0's & 1's)
