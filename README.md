@@ -1,3 +1,7 @@
+# Link to attend Harvard University Cs50x (Introduction To Computer Science)
+
+Website: https://cs50.harvard.edu/x/2020/certificate/
+
 # Scratch-Game
 Small project for problem set 0 in Havard University's Introduction To Computer Science Course CS50x.
 
